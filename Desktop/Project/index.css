@@ -1,0 +1,20 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+ background-color: #17244d;
+}
+
+#login_central {
+    width: 300px; 
+    margin: 200px auto; 
+    text-align: center; 
+}
+
+.login_titulo{
+    color: WHITE;
+}
+
+#login_button{
+    margin-top: 30px;
+    background-color:#d03434 ;
+    width: 170px;
+}
